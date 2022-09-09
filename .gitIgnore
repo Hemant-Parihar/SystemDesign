@@ -1,0 +1,8 @@
+.gradle
+.idea
+.gitattributes
+gradle
+gradlew
+gradlew.bat
+build
+.DS_Store
